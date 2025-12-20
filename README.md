@@ -1,8 +1,12 @@
-
+<p align="center">
+  <img src="assets/gifs/celebration.gif" width="300" />
+</p>
 
 ## 📘 Description
 
 Le lien : [https://illustrious-empanada-8a4345.netlify.app/](https://illustrious-empanada-8a4345.netlify.app/)
+
+
 
 ---
 Ce projet est un **site vitrine professionnel** pour le **Cabinet CEP**, un organisme de formation spécialisé dans les domaines **médical, psychologique et organisationnel**.  
