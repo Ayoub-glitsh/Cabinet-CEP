@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/gifs/celebration.gif" width="300" />
+  <img src="img\cep.png"  />
 </p>
 
 ## 📘 Description
